@@ -1,0 +1,30 @@
+[
+  {
+    "player": "0x25dD6D56533F72512BAe2B7a312984241F84De95",
+    "win": false,
+    "amountWon": "0",
+    "transactionHash": "0x9fd31ad599f006228cfd644d8c25160502575c24dd043bfc3978b6d3c0b96575",
+    "tokenSymbol": "VDO"
+  },
+  {
+    "player": "0x25dD6D56533F72512BAe2B7a312984241F84De95",
+    "win": true,
+    "amountWon": "200000000000000000000",
+    "transactionHash": "0xe675a3310a19c3724749998e16224afb37b415f6f7e20631c7fbfd8f1ae02deb",
+    "tokenSymbol": "VDO"
+  },
+  {
+    "player": "0x25dD6D56533F72512BAe2B7a312984241F84De95",
+    "win": false,
+    "amountWon": "0",
+    "transactionHash": "0xed75a052ca9f61eb101aed050d1b15b990d95f4ebc8dead968fee52444724578",
+    "tokenSymbol": "VDO"
+  },
+  {
+    "player": "0x25dD6D56533F72512BAe2B7a312984241F84De95",
+    "win": false,
+    "amountWon": "0",
+    "transactionHash": "0x440ddee49cea08f933a329acfad1a0979088c199c33e6a765e559335a1a72427",
+    "tokenSymbol": "VDO"
+  }
+]
